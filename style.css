@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    background-color: rgb(77, 78, 78);
+    margin: 0;
+    color: #000000;
+}
+
+.container{
+    max-width:1024px;
+	margin:0 auto;
+	float:center;
+	width:100%;
+}
+
+.avatar{
+    width: 270px;
+    border-radius: 5%;
+    background-repeat: round;
+    margin: 15px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+
+.text{
+    width: 600px;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 90px;
+    margin-left: 20px;
+}
+
+.description, .contacts{
+    background-color: rgb(150, 151, 151);
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 120px;
+}
+
+.education{
+    background-color: rgb(171, 173, 173);
+    padding: 15px;
+    margin: 15px;
+    padding-left: 50px;
+}
+
+.block{
+    padding-bottom: 20px;
+}
+
+.about_me{
+    background-color: rgb(171, 173, 173);
+    padding: 15px;
+    margin: 15px;
+    align-items: top;
+}
+
+.information{
+    margin-left: 20px;
+}
