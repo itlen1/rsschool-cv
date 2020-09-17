@@ -17,17 +17,17 @@ Now I am a last year student of the BGUIR branch of the MRK. During my search fo
 - Delphi
 - PhotoShop
  
-###Code examples
+### Code examples
 [GitHub](https://github.com/itlen1)
 
-###Experience
+### Experience
 - project "FlyBird"
 - project "Text recognition"
 - project "ЯTunes"
 
-###Education
+### Education
 - BSUIR affiliate “Minsk Radioengineering College” (2017-2021)
 - Javascript/Front-end Rolling Scopes 
 
-###English language
+### English language
 My English level is B1
